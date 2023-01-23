@@ -70,3 +70,14 @@ body {
     background: rgb(158, 158, 158);
     border-radius: 50%;
 }
+
+.fa-brands {
+    font-size: 35px;
+    background-color: rgb(0, 49, 77);
+    border-radius: 50% !important;
+}
+
+.fa-brands:hover {
+    cursor: pointer;
+    background-color: rgb(0, 49, 77);
+}

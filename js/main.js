@@ -31,8 +31,8 @@ const printData = (data) => {
 }
 
 
-const maxArr = () => {
-
+const playAudio = () => {
+    document.getElementById('audio').play();
 }
 
 
